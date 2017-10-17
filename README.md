@@ -9,5 +9,5 @@ To run the application fully, type in the console:
 2. password
 3. CREATE DATABASE blog_development;
 4. CREATE DATABASE blog_test;
-Exit
-6. rake db: migrate
+5. exit
+6. In project - rake db: migrate
